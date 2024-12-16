@@ -1,0 +1,38 @@
+ANALYSIS OF SAMPLED SEQUENCES
+==============================
+
+Number of duplicates in generated sequences: 80
+0.0 percent of generated sequences are present in the training data.
+
+
+LENGTH DISTRIBUTION OF GENERATED DATA:
+
+Number of sequences too short:	3
+Number of invalid (with 'B'):	2
+Number of valid unique seqs:	495
+Mean sequence length:     		14.1 ¡À 4.2
+Median sequence length:   		13
+Minimal sequence length:  		4
+Maximal sequence length:  		22
+
+
+DISTANCE CALCULATION IN 'PEPCATS' DESCRIPTOR SPACE
+
+Average euclidean distance of sampled to training data:	0.949 +/- 0.484
+Average euclidean distance if randomly sampled seqs:	1.067 +/- 0.429
+Average euclidean distance if amphipathic helical seqs:	0.919 +/- 0.367
+
+
+DISTANCE CALCULATION FOR SCALED GLOBAL DESCRIPTORS
+
+Average euclidean distance of sampled to training data:	4.02 +/- 1.85
+Average euclidean distance if randomly sampled seqs:	4.44 +/- 1.42
+Average euclidean distance if amphipathic helical seqs:	4.21 +/- 1.76
+
+
+HYDROPHOBIC MOMENTS
+
+Hydrophobic moment of training seqs:	0.190 +/- 0.163
+Hydrophobic moment of sampled seqs:		0.233 +/- 0.157
+Hydrophobic moment of random seqs:		0.259 +/- 0.156
+Hydrophobic moment of amphipathic seqs:	0.748 +/- 0.125
