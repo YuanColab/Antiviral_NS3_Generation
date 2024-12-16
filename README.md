@@ -1,0 +1,1 @@
+Peptipedia_all_peptides.fasta can be downloaded from the following link:https://drive.google.com/file/d/15PiIRqTjqPROirAoVr9jck5PUIrb9P20/view?usp=sharing. After downloading, simply place it in the data folder.
